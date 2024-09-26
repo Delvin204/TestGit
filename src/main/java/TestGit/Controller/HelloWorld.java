@@ -2,6 +2,6 @@ package TestGit.Controller;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Chào b Duong");
+		System.out.println("Chào ban Duong");
 	}
 }
