@@ -9,7 +9,9 @@ public class HelloWorld {
 			System.out.println("moe michos như qq");
 		}
 	}
-	
+	public void add() {
+		System.out.println("Thêm");
+  }
 	public void delete() {
 		System.out.println("Xóa");
 	}
