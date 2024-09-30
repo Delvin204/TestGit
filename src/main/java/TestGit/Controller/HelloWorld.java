@@ -3,6 +3,8 @@ package TestGit.Controller;
 public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Chào bạn Dương");
-		System.out.println("Chào bạn Long");
+		if(true) {
+			System.out.println("Hello abc");
+		}
 	}
 }
