@@ -6,6 +6,9 @@ public class HelloWorld {
 		if(true) {
 			System.out.println("Hello world def1");
 			System.out.println("moe michos như qq");
+			if(true) {
+				System.out.println("alo");
+			}
 		}
 	}
 }
