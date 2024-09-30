@@ -9,4 +9,8 @@ public class HelloWorld {
 			System.out.println("moe michos như qq");
 		}
 	}
+	
+	public void delete() {
+		System.out.println("Xóa");
+	}
 }
